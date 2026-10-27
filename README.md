@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour , je suis Serigne Amdy CISSE</h1>
-<h3 align="center">Étudiant en 2e année de BUT Réseau et Télécoms (R&T) - ROM à l'IUT de Roanne. 🌐 Je recherche activement une alternance en tant que Technicien ou Administrateur Réseau/Télécoms disponible dès maintenant. Mes projets et mon portfolio sont ci-dessous ! 👇</h3>
+<h3 align="center">Étudiant en 3e année de BUT Réseau et Télécoms (R&T) - ROM à l'IUT de Roanne. 🌐 Je recherche activement une alternance en tant que Technicien ou Administrateur Réseau/Télécoms disponible dès maintenant. Mes projets et mon portfolio sont ci-dessous ! 👇</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
